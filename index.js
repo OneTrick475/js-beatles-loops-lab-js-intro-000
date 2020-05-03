@@ -4,5 +4,5 @@ function theBeatlesPlay(musicians, instruments){
     empty.push(`${musicians[i]} plays ${instruments[i]}`);
     console.log(empty);
      }
-     
+
 }
